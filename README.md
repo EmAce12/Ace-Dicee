@@ -3,8 +3,13 @@
 Dice (singular die or dice) are small, throwable objects with marked sides that can rest in multiple positions. They are used for generating random values, commonly as part of tabletop games, including dice games, board games, role-playing games, and games of chance.
 
 
-HERE IS THE SCREENSHOT OF THE PROJECT
-![image](https://user-images.githubusercontent.com/54309095/211129197-e5477cad-ffe6-4d5e-a685-546c43f7c028.png)
+
+
+Project ScreenShot
+
+
+![image](https://user-images.githubusercontent.com/54309095/211281650-e4599450-6220-42e7-bf1f-27085487bd0e.png)
+
 
 
 ## Installation
